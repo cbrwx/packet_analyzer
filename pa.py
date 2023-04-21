@@ -26,7 +26,7 @@ suspicious_ips = ["192.0.2.1", "198.51.100.2", "203.0.113.3"]
 suspicious_domains = ["suspicious-domain.com", "malicious-site.org"]
 
 # List of countries to watch for suspicious activity
-watchlist_countries = ["Country1", "Country2"]
+watchlist_countries = ["Russia1", "Russia2"] # Ukraine<3
 
 def get_transport_layer(packet):
     if TCP in packet:
