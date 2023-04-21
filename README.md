@@ -29,4 +29,5 @@ You can customize the list of keywords, suspicious IPs, domains, and watchlist c
 - watchlist_countries: A list of countries to watch for suspicious activity
 # License
 This project is licensed under the MIT License.
+
 .cbrwx
